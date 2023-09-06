@@ -58,6 +58,11 @@ import strapi from '../assets/svg/skills/strapi.svg'
 import tensorflow from '../assets/svg/skills/tensorflow.svg'
 import webix from '../assets/svg/skills/webix.svg'
 import wordpress from '../assets/svg/skills/wordpress.svg'
+import express from '../assets/svg/skills/express.svg'
+import daisyUI from '../assets/svg/skills/daisyUI.svg'
+import nodeJS from '../assets/svg/skills/nodeJS.svg'
+import nodemon from '../assets/svg/skills/nodemon.svg'
+
 
 import azure from '../assets/svg/skills/azure.svg'
 import blender from '../assets/svg/skills/blender.svg'
@@ -71,6 +76,7 @@ import microsoftoffice from '../assets/svg/skills/microsoftoffice.svg'
 import picsart from '../assets/svg/skills/picsart.svg'
 import sketch from '../assets/svg/skills/sketch.svg'
 import unity from '../assets/svg/skills/unity.svg'
+import ubuntu from '../assets/svg/skills/ubuntu.svg'
 import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 
 import canva from '../assets/svg/skills/canva.svg'
@@ -227,6 +233,14 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
+        case 'daisyui':
+            return daisyUI;
+        case 'nodejs':
+            return nodeJS;
+        case 'nodemon':
+            return nodemon;
+        case 'ubuntu':
+            return ubuntu;
         default:
             break;
     }
