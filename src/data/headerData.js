@@ -4,7 +4,7 @@ import myimage from '../assets/png/myimage.png'
 export const headerData = {
     name: 'Mario Samy',
     title: "Full-Stack Web Developer",
-    desciption: "There wasn't a bird in the sky, but that was not what caught her attention. It was the clouds. The deep green that isn't the color of clouds, but came with these. She knew what was coming and she hoped she was prepared. ",
+    desciption: "The nature of a portfolio is that it is always a work in progress. Continous improvement is better than delayed perfection.",
     image: myimage,
     resumePdf: resume
 }

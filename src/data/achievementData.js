@@ -1,29 +1,29 @@
 export const achievementData = {
-    bio : "Putting quantified achievements on a resume is great, but I just don’t work with hard numbers. I have no data to support the quality of my work. If you have lots of relevant experience, the heading statement of your resume will be a summary.",
-    achievements : [
+    bio: "",
+    achievements: [
+        // {
+        //     id: 1,
+        //     title: 'Google Cloud certification',
+        //     details: 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
+        //     date: 'Aug 20, 2019',
+        //     field: 'Automation',
+        //     image: 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+        // },
         {
-            id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            id: 1,
+            title: 'Game Theory',
+            details: 'This advanced course considers how to design interactions between agents in order to achieve good social outcomes.',
+            date: 'December 29, 2022',
+            field: 'Game Design and Development',
+            image: 'https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/ee/67c650e9bc11e5abe1133ac5dcedb7/WelcometoGameTheory.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=204&fit=crop&q=50'
         },
         {
-            id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
-        },
-        {
-            id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            id: 2,
+            title: 'Interactive Computer Graphics',
+            details: 'This course introduced various interactive tools developed in computer graphics research field with their design rationales and algorithms.',
+            date: 'January 17, 2023',
+            field: 'Computer Graphics',
+            image: 'https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/2c/fdebb0728711e8a431b1fb8caaf072/MOOC-Logo.fw.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=204&fit=crop&q=50'
         }
 
     ]
